@@ -1,4 +1,4 @@
-# Helix-OS
+# Helix-OS (Coming Soon)
 
 Welcome to the official github of Helix OS, an arch based distribution with a main focus of creating THE best linux experience for programmers and everyday users alike. 
 
